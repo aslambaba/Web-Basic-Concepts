@@ -2,6 +2,7 @@
 
 # dependencies
 reactredux/node_modules
+socket.io/node_modules
 reactredux/.pnp
 .pnp.js
 
