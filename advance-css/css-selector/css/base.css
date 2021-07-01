@@ -1,0 +1,29 @@
+.main-container{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 20px 30px;
+    background-color: aquamarine;
+}
+label{
+    width: 53%;
+    display: inline-block;
+    text-align: left;
+}
+input{
+    width: 50%;
+    margin: 10px 0px;
+    padding: 10px 12px;
+    border: none;
+    border-radius: 3px;
+}
+ul{
+    text-align: left;
+}
+li{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 10px 0px;
+    border-bottom: solid white 1px;
+    display: block;
+    padding: 12px 20px;
+    border-radius: 3px;
+}

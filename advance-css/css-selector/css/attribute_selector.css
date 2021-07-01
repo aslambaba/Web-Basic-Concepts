@@ -1,0 +1,32 @@
+
+/* Basic Attribute Selectors */
+
+input[type="text"],
+input[type="email"],
+input[type="number"]{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input[type="submit"]{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+    padding: 8px 50px;
+    border-radius: 2px;
+}
+
+/* First-Child, Last-Child, Only-Child Selector */
+
+li:first-child{
+    background-color: white;
+}
+
+li:last-child{
+    background-color: white;
+}
+
+span:only-child{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
